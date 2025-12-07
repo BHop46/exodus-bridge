@@ -1,0 +1,5 @@
+{
+  "name": "The Chat Exodus Bridge",
+  "description": "A local bridge tool to migrate ChatGPT history to Gemini, Claude, and other LLMs. Import your conversation data, analyze personas, and generate migration packets.",
+  "requestFramePermissions": []
+}
